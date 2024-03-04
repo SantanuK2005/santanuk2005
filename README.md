@@ -5,6 +5,11 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
+- 👯 I’m looking to collaborate on **MERN Stack Project**
+
+- 💬 Ask me about **Web development**
+
+- 📫 How to reach me **https://www.linkedin.com/in/santanu-khorat-330095274/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
